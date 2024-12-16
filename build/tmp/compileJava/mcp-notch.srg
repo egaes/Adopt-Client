@@ -1,0 +1,58 @@
+FD: keystrokesmod/mixins/impl/client/MixinMovementInputFromOptions/gameSettings keystrokesmod/mixins/impl/client/MixinMovementInputFromOptions/e
+FD: keystrokesmod/mixins/impl/client/MixinWorldInfo/worldTime keystrokesmod/mixins/impl/client/MixinWorldInfo/i
+FD: keystrokesmod/mixins/impl/entity/MixinEntity/motionX keystrokesmod/mixins/impl/entity/MixinEntity/v
+FD: keystrokesmod/mixins/impl/entity/MixinEntity/motionZ keystrokesmod/mixins/impl/entity/MixinEntity/x
+FD: keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/rotationYawHead keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/aK
+FD: keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/renderYawOffset keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/aI
+FD: keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/swingProgress keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/az
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayer/itemInUse keystrokesmod/mixins/impl/entity/MixinEntityPlayer/g
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/sprintingTicksLeft keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/e
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/sprintToggleTimer keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/d
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/prevTimeInPortal keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/bI
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/timeInPortal keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/bH
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/mc keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/c
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/movementInput keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/b
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/horseJumpPowerCounter keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/bU
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/horseJumpPower keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/bV
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/serverSprintState keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/bQ
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/sendQueue keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/a
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/serverSneakState keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/bP
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/lastReportedPosX keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/bK
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/lastReportedPosY keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/bL
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/lastReportedPosZ keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/bM
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/lastReportedYaw keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/bN
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/lastReportedPitch keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/bO
+FD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/positionUpdateTicks keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/bR
+FD: keystrokesmod/mixins/impl/render/MixinItemRenderer/itemToRender keystrokesmod/mixins/impl/render/MixinItemRenderer/d
+FD: keystrokesmod/mixins/impl/render/MixinItemRenderer/equippedProgress keystrokesmod/mixins/impl/render/MixinItemRenderer/e
+FD: keystrokesmod/mixins/impl/render/MixinItemRenderer/prevEquippedProgress keystrokesmod/mixins/impl/render/MixinItemRenderer/f
+FD: keystrokesmod/mixins/impl/render/MixinLayerCape/playerRenderer keystrokesmod/mixins/impl/render/MixinLayerCape/a
+FD: keystrokesmod/mixins/impl/render/MixinModelBiped/bipedRightArm keystrokesmod/mixins/impl/render/MixinModelBiped/h
+FD: keystrokesmod/mixins/impl/render/MixinModelBiped/heldItemRight keystrokesmod/mixins/impl/render/MixinModelBiped/m
+FD: keystrokesmod/mixins/impl/render/MixinModelBiped/bipedHead keystrokesmod/mixins/impl/render/MixinModelBiped/e
+FD: keystrokesmod/mixins/impl/render/MixinRendererLivingEntity/mainModel keystrokesmod/mixins/impl/render/MixinRendererLivingEntity/f
+FD: keystrokesmod/mixins/impl/render/MixinRenderGlobal/mc keystrokesmod/mixins/impl/render/MixinRenderGlobal/h
+MD: keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/getActivePotionEffect (Lnet/minecraft/potion/Potion;)Lnet/minecraft/potion/PotionEffect; keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/b (Lpe;)Lpf;
+MD: keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/isPotionActive (Lnet/minecraft/potion/Potion;)Z keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/a (Lpe;)Z
+MD: keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/getJumpUpwardsMotion ()F keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/bE ()F
+MD: keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/jump ()V keystrokesmod/mixins/impl/entity/MixinEntityLivingBase/bF ()V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayer/getHeldItem ()Lnet/minecraft/item/ItemStack; keystrokesmod/mixins/impl/entity/MixinEntityPlayer/bA ()Lzx;
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayer/onCriticalHit (Lnet/minecraft/entity/Entity;)V keystrokesmod/mixins/impl/entity/MixinEntityPlayer/b (Lpk;)V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayer/onEnchantmentCritical (Lnet/minecraft/entity/Entity;)V keystrokesmod/mixins/impl/entity/MixinEntityPlayer/c (Lpk;)V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayer/triggerAchievement (Lnet/minecraft/stats/StatBase;)V keystrokesmod/mixins/impl/entity/MixinEntityPlayer/b (Lmw;)V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayer/getCurrentEquippedItem ()Lnet/minecraft/item/ItemStack; keystrokesmod/mixins/impl/entity/MixinEntityPlayer/bZ ()Lzx;
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayer/destroyCurrentEquippedItem ()V keystrokesmod/mixins/impl/entity/MixinEntityPlayer/ca ()V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayer/addStat (Lnet/minecraft/stats/StatBase;I)V keystrokesmod/mixins/impl/entity/MixinEntityPlayer/a (Lmw;I)V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayer/addExhaustion (F)V keystrokesmod/mixins/impl/entity/MixinEntityPlayer/a (F)V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayer/isUsingItem ()Z keystrokesmod/mixins/impl/entity/MixinEntityPlayer/bS ()Z
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayer/attackTargetEntityWithCurrentItem (Lnet/minecraft/entity/Entity;)V keystrokesmod/mixins/impl/entity/MixinEntityPlayer/f (Lpk;)V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/setSprinting (Z)V keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/d (Z)V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/sendPlayerAbilities ()V keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/t ()V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/isCurrentViewEntity ()Z keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/A ()Z
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/isRidingHorse ()Z keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/y ()Z
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/sendHorseJump ()V keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/r ()V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/isSneaking ()Z keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/av ()Z
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/onUpdate ()V keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/t_ ()V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/onUpdateWalkingPlayer ()V keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/p ()V
+MD: keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/onLivingUpdate ()V keystrokesmod/mixins/impl/entity/MixinEntityPlayerSP/m ()V
+MD: keystrokesmod/mixins/impl/render/MixinRendererLivingEntity/renderModel (Lnet/minecraft/entity/EntityLivingBase;FFFFFF)V keystrokesmod/mixins/impl/render/MixinRendererLivingEntity/a (Lpr;FFFFFF)V

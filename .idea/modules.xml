@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adopt.api.iml" filepath="$PROJECT_DIR$/.idea/modules/Adopt.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adopt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Adopt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adopt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Adopt.test.iml" />
+    </modules>
+  </component>
+</project>
